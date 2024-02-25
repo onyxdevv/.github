@@ -4,8 +4,12 @@
 
 
 
-## 🚀 Informations
+## 🚀 About us
 - coming soon
+
+## 🫡 Our Team
+- coming soon
+
 
 ---
 
