@@ -1,7 +1,6 @@
 <h1 align="center">Hello world! </h3>
 
 > We are Onix Development - an upcoming development studio that provides you with high quality content.
-> 
 
 
 
@@ -11,7 +10,8 @@
 ---
 
 ## 🔥 Our Skills & Uses
-
+> Please note that those aren't the only things we use - those are obviously just being used the most :)
+> 
 <h3 align="left">🏗 Main Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
