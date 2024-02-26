@@ -1,6 +1,6 @@
 <h1 align="center">Hello world! </h3>
 
-> We are Onix Development - an upcoming development studio from germany that provides you with high quality content.
+> We are Onyx Development - an upcoming development studio from germany that provides you with high quality content.
 
 
 
@@ -34,6 +34,7 @@
 
 ## 💬 Contact us
 coming soon
+
 
 <!---------------------------------->
 
