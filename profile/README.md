@@ -1,4 +1,4 @@
-<h1 align="center">Hello world! </h3>
+<h1 align="center">Hello World! </h3>
 
 > We are Onyx Development - an upcoming development studio from germany that provides you with high quality content.
 
@@ -34,22 +34,3 @@
 
 ## 💬 Contact us
 coming soon
-
-
-<!---------------------------------->
-
-
-<!--
-- 👋 Hi, I’m @onyxdevv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!---
-onyxdevv/onyxdevv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
